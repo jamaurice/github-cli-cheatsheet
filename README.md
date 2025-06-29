@@ -1,8 +1,3 @@
-### 📁 Repo Name: `github-cli-cheatsheet`
-
-### 📄 `README.md` (Full content below)
-
-````markdown
 # 🧾 GitHub CLI Cheatsheet
 
 This repository is a command-line reference for working with **GitHub** using `git` and `gh` (GitHub CLI).
