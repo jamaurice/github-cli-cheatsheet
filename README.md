@@ -170,7 +170,6 @@ gh release create v1.0.0 ./build.zip --title "Release v1.0.0" --notes "First sta
 
 ---
 
-### ✍️ Author: \[Jamaurice Holt]
+### ✍️ Author: \ Jamaurice Holt 
 
-```
 
